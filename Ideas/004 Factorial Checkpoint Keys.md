@@ -1,0 +1,11 @@
+---
+tags:
+  - levels
+  - ACv/3/L/1
+---
+- level 1
+	- price: 0
+	- output: 1×k2
+- level n
+	- price 1×kn
+	- output n×k(n-1)
